@@ -1,4 +1,4 @@
-# dmulligan/docker-example-tomcat-mysql
+# docker-example-tomcat-mysql
 
 A docker compose example project with a MySQL and a Tomcat container linked together.
 
